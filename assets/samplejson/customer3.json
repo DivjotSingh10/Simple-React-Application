@@ -1,0 +1,12 @@
+{
+	"id": 3,
+	"name": "Divjot",
+	"email": "divjot@test.com",
+	"phone": "123412345",
+	"city": "Brampton",
+	"state": "Ontario",
+	"country": "Canada",
+	"organization": "Sheridan",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Buys Lots of Products in general"
+}

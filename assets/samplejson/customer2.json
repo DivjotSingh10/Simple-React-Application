@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"name": "ABCD",
+	"email": "abcd@test.com",
+	"phone": "987654321",
+	"city": "Surrey",
+	"state": "British Columbia",
+	"country": "Canada",
+	"organization": "Government of BC",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Buys Products Rarely"
+}
